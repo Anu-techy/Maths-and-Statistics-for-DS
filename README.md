@@ -17,6 +17,11 @@ To get an idea of data distribution
 
 99 th percentile -- 99% of the scores are less than this percentile number
 
+Volatility of stock returns can be assessed using variance and standard deviation
+
+df.nvidia_returns.std(), df.nvidia_returns.var()
+
+df.reliance_returns.std(), df.reliance_returns.var()
 
 
 
