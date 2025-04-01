@@ -25,5 +25,10 @@ df.nvidia_returns.std(), df.nvidia_returns.var()
 
 df.reliance_returns.std(), df.reliance_returns.var()
 
+**Standard Normal Distribution**
 
+Computing z-scores for each of the datapoints and plot the distribution of z-scores
 
+mean=0       and       std dev =1
+
+Used in comparing data sets and in z-tests to assess differences between means
