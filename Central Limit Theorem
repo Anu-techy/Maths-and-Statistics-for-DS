@@ -1,0 +1,28 @@
+Law of Large Numbers
+
+As the sample size increases the mean of the sample gets closer to the population mean.
+
+Law of Large number applies for Drug/Vaccination Trial, Stock Returns (long term investments show predictable consistent result)
+Quality Control Manufacturing.(as the sample size increases, the accuracy of test improves)
+
+Central Limit Theorem
+
+For a large enough sample size (sample size >= 30), the distribution of the sample means 
+(a.k.a sampling distribution) will be approximately normally distributed.
+This theorem is irrespective of your original population distribution.
+
+Example:
+
+To build a marketing campaign for solar panels, the populationn size is 12 million families, 
+sample size is 10000 families whose monthly electicity bills are surveyed.
+
+Population - parameter
+Sample - statistic
+
+their sample size is 50, they collected 207 samples, 
+Distribution of sample data is Sample Distribution
+
+Taking means of each samples(i.e 207 samples) 
+and when you plot a histogram of means it is a normal distribution.
+
+
